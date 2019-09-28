@@ -1,0 +1,10 @@
+.select-view {
+  width: 20%;
+  margin-top: 10px;
+  padding-left: 10px;
+}
+.select-label {
+  text-align: left;
+  margin-top: 20px;
+  padding-left: 10px;
+}

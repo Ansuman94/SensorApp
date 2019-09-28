@@ -1,5 +1,5 @@
 import React from "react";
-import "./View/View";
+import View from "./View/View";
 import "./App.css";
 
 function App() {

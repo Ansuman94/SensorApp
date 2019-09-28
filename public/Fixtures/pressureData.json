@@ -1,0 +1,8 @@
+{
+  "deviceId": {
+    "unit": "N",
+    "deviceType": "pressure"
+  },
+  "temperature": "70",
+  "timestamp": "63248274"
+}

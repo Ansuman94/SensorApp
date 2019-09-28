@@ -1,0 +1,8 @@
+{
+  "deviceId": {
+    "unit": "c",
+    "deviceType": "temperature"
+  },
+  "temperature": "100",
+  "timestamp": "63248274"
+}
